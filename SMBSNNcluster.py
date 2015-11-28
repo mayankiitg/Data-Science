@@ -11,7 +11,7 @@ for row in cont.split('\n'):
 		b.append(float(c.strip()))	
 	data.append(b)
 
-print data
+#print data
 ########################### FUNCTION
 def dist(a,b):
 	d=0
