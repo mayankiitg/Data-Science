@@ -1,4 +1,4 @@
-each list representing one cluster, each integer representing indexes of data points i.e. ith data point in file.
+each list representing one cluster, each integer representing indexes of data points i.e. (i+1)th data point in file.
 
 38 [38]
 40 [40, 41, 42]
